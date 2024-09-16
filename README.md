@@ -36,4 +36,10 @@ The screen is cleared at each step to refresh the display. This implementation s
 
 ## Example
 Here is a brief example of running the program:
+![Screenshot 2024-09-17 001816](https://github.com/user-attachments/assets/353e4fe6-8e90-43c5-bee8-32eb41cbea9c)
 
+## Grid:
+![Screenshot 2024-09-17 001842](https://github.com/user-attachments/assets/b16f8f4d-ddf0-4242-a3ea-aebaeae55a5f)
+
+## Credits
+- Special thanks to (https://github.com/MarioTalevski)
